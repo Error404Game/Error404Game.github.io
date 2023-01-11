@@ -1,7 +1,10 @@
+facebook.com, 564139145575436, RESELLER, c3e20eee3f780d68
+
 
 google.com, pub-9648176285196739, DIRECT, f08c47fec0942fa0
+
 applovin.com, 621d8f59fe50127706807e58986d77dc, DIRECT
-facebook.com, 564139145575436, RESELLER, c3e20eee3f780d68
+
 
 
 
